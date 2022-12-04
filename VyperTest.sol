@@ -5,5 +5,9 @@ import {Test} from "forge-std/Test.sol";
 import {VyperDeployer} from "./VyperDeployer.sol";
 
 contract VyperTest is Test {
-	VyperDeployer vyperDeployer = new VyperDeployer(vm);
+	VyperDeployer vyperDeployer;
+
+	function initDeployer() public {
+		vyperDeployer = new VyperDeployer(vm);
+	}
 }
