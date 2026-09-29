@@ -1,0 +1,114 @@
+tests/functional/syntax/modules/test_initializers.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 1664
+vyper/codegen/expr.py
+  s_ac370ef23a4b4a::t_938fd1e386dc34 276
+docs/interfaces.rst
+  s_ac370ef23a4b4a::t_c9fe4d8e194c29 116
+  s_ac370ef23a4b4a::t_804798e6ec36db 47,49-52,64
+tests/functional/codegen/test_interfaces.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 407
+tests/functional/syntax/test_external_calls.py
+  s_ac370ef23a4b4a::t_05224b39cc27c8 7,18
+tests/functional/syntax/test_interfaces.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 355,361,370
+docs/vyper-by-example/company-stock.rst
+  s_ac370ef23a4b4a::t_84853b260a2110 61,92,97,106,114,127,138,150,155,164
+  s_ac370ef23a4b4a::t_58f09041b5932c 62,81,93,98,107,115,128,139,151,156,165
+  s_ac370ef23a4b4a::t_ee25b62ca29c38 83
+tests/functional/codegen/types/test_array_indexing.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 170
+tests/functional/codegen/features/decorators/test_private.py
+  s_ac370ef23a4b4a::t_d083080f55c93f 688-689
+tests/functional/builtins/codegen/test_addmod.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 21
+vyper/codegen_venom/module.py
+  s_ac370ef23a4b4a::t_6c6f773ddd8778 337,532,743,767,793-795,846
+  s_ac370ef23a4b4a::t_a1e85de17982e6 341,536,845
+vyper/codegen/module.py
+  s_ac370ef23a4b4a::t_0977a2bcb0502b 169,195,213,241,258,320-325
+tests/functional/examples/safe_remote_purchase/test_safe_remote_purchase.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 124
+tests/functional/examples/thirdparty/curvefi/helpers/router/router_v_110.vy
+  s_ac370ef23a4b4a::t_cec7324d9df257 47
+examples/tokens/ERC1155ownable.vy
+  s_ac370ef23a4b4a::t_6f808872c79346 112,119
+tests/unit/compiler/test_abi.py
+  s_ac370ef23a4b4a::t_d083080f55c93f 44
+docs/control-structures.rst
+  s_ac370ef23a4b4a::t_dfa1f2fcf6d7b7 105,142,146,158,163,165,168-172,265,284
+tests/functional/builtins/codegen/test_extract32.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 128
+tests/functional/codegen/test_selector_table.py
+  s_ac370ef23a4b4a::t_c57a5a619b7155 484,495,527,549,594-595,600,612
+tests/functional/syntax/exceptions/test_invalid_payable.py
+  s_ac370ef23a4b4a::t_d083080f55c93f 7-8,10,13-20
+vyper/compiler/output.py
+  s_ac370ef23a4b4a::t_979eee6ae5465e 172
+tests/functional/examples/thirdparty/curvefi/legacy/CurveStableSwapMetaNG.vy
+  s_ac370ef23a4b4a::t_cec7324d9df257 59
+docs/vyper-by-example/safe-remote-purchase.rst
+  s_ac370ef23a4b4a::t_ee25b62ca29c38 52,82
+  s_ac370ef23a4b4a::t_84853b260a2110 64,79,91
+  s_ac370ef23a4b4a::t_58f09041b5932c 50,65,80,92
+tests/functional/codegen/features/decorators/test_view.py
+  s_ac370ef23a4b4a::t_d083080f55c93f 34,37,39
+tests/functional/codegen/calling_convention/test_external_contract_calls.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 1369,1558,2493
+  s_ac370ef23a4b4a::t_d083080f55c93f 903-904
+tests/functional/codegen/calling_convention/test_default_parameters.py
+  s_ac370ef23a4b4a::t_d083080f55c93f 471,473
+  s_ac370ef23a4b4a::t_cec7324d9df257 118
+vyper/semantics/analysis/local.py
+  s_ac370ef23a4b4a::t_20dc2f5a997812 183-184,955-959
+tests/functional/codegen/types/test_bytes.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 290
+tests/functional/builtins/codegen/test_slice.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 630,653
+tests/functional/codegen/features/decorators/test_payable.py
+  s_ac370ef23a4b4a::t_87027bd2493099 4,11,14,17,20-41,45-47,50-66,76,79-81,83-85,87-88,91-93,96-97,100,103-104,107-111,113-114,117-118,121-123,125-126,129-131,134-136,138-140,142-144,146-165,167-169,172-173,175,177-180,183-184,186-193,196-197,199-200,202,205-206,208-212,215-216,218,236,242,248,263-264,266-269,272,275-276,279-284,287-290,293,295-296,299-301,304,315,319-321
+docs/vyper-by-example/crowdfund.rst
+  s_ac370ef23a4b4a::t_84853b260a2110 74,94
+  s_ac370ef23a4b4a::t_ee25b62ca29c38 66
+  s_ac370ef23a4b4a::t_58f09041b5932c 64,75,95
+tests/functional/codegen/features/decorators/test_pure.py
+  s_ac370ef23a4b4a::t_d083080f55c93f 227
+tests/functional/codegen/calling_convention/test_default_function.py
+  s_ac370ef23a4b4a::t_d083080f55c93f 62,74-77
+tests/functional/builtins/codegen/test_ec.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 65,147
+tests/functional/syntax/test_for_range.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 335
+tests/functional/codegen/features/test_constructor.py
+  s_ac370ef23a4b4a::t_d083080f55c93f 401-402,408-409
+vyper/semantics/types/function.py
+  s_ac370ef23a4b4a::t_979eee6ae5465e 169-171,339-341,355,689-696,743-749,752-766,857-858,1043-1048,1065-1067
+  s_ac370ef23a4b4a::t_20dc2f5a997812 1097-1100
+tests/functional/builtins/codegen/test_ceil.py
+  s_ac370ef23a4b4a::t_cec7324d9df257 114
+docs/vyper-by-example/simple-auction.rst
+  s_ac370ef23a4b4a::t_58f09041b5932c 78,100,112
+  s_ac370ef23a4b4a::t_ee25b62ca29c38 80-81
+  s_ac370ef23a4b4a::t_84853b260a2110 99,111
+docs/compiler-exceptions.rst
+  s_ac370ef23a4b4a::t_44e683be5efcae 135
+docs/solidity-differences.rst
+  s_ac370ef23a4b4a::t_2ff0599052c42d 275
+tests/functional/codegen/test_selector_table_stability.py
+  s_ac370ef23a4b4a::t_d1a3e5ef4b4730 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "20c1e52ad422160879e3bcf8f08b82f849401168",
+  "prompts": {},
+  "sessions": {
+    "s_ac370ef23a4b4a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adace59d-a556-4996-9f0d-51247961060c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "AlbertoCentonze <11707683+AlbertoCentonze@users.noreply.github.com>"
+    }
+  }
+}
